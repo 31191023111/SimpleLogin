@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63634104261",
+    "project_id": "simple-login-2fc9f",
+    "storage_bucket": "simple-login-2fc9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63634104261:android:759cf8a15f899dca63f5ac",
+        "android_client_info": {
+          "package_name": "binhdang.ueh.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63634104261-fp9bfvaufi5s6d97opr78up16op6vl37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-mf0nwzRmZDi6VytvcTL3-UinNCLF5eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63634104261-fp9bfvaufi5s6d97opr78up16op6vl37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
